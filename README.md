@@ -2,6 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
+![Snake animation](https://github.com/RuanVianaBatista/RuanVianaBatista/blob/output/snake.svg)
+
 Meu nome é Ruan Viana e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no IFCE – Campus Tabuleiro do Norte. Tenho como objetivo me tornar desenvolvedor Full Stack e, para isso, estou focado no estudo tanto de linguagems como de tecnologias BackEnd e FrontEnd como Java, JavaScript, SpringBoot e React tambem.
 
 Busco novas oportunidades para adquirir conhecimento prático e experiência na área de desenvolvimento, contribuindo para projetos e evoluindo minhas habilidades técnicas e profissionais.
@@ -18,26 +20,6 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
         alt="seguidores"
         title="Me siga no Github"
         src="https://custom-icon-badges.demolab.com/github/followers/RuanVianaBatista?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
-    />
-</a>
-
-### Contatos
-<a href="https://wa.me/55XXXXXXXXXXX">
-    <img 
-        alt="WhatsApp" 
-        src="https://custom-icon-badges.demolab.com/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
-    />
-</a>
-<a href="LINK_DO_SEU_CONVITE">
-    <img 
-        alt="Discord" 
-        src="https://custom-icon-badges.demolab.com/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
-    />
-</a>
-<a href="https://www.linkedin.com/in/SEU_PERFIL">
-    <img 
-        alt="LinkedIn" 
-        src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
     />
 </a>
 
@@ -156,5 +138,24 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
     style="padding=rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+<br>
 
-![Snake animation](https://github.com/RuanVianaBatista/RuanVianaBatista/blob/output/snake.svg)
+### Contatos
+<a href="https://wa.me/55XXXXXXXXXXX">
+    <img 
+        alt="WhatsApp" 
+        src="https://custom-icon-badges.demolab.com/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+    />
+</a>
+<a href="LINK_DO_SEU_CONVITE">
+    <img 
+        alt="Discord" 
+        src="https://custom-icon-badges.demolab.com/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
+    />
+</a>
+<a href="https://www.linkedin.com/in/SEU_PERFIL">
+    <img 
+        alt="LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    />
+</a>
