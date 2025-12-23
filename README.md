@@ -133,5 +133,5 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
 <br>
 <br>
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=9) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=8) |
 |:--:|:--:|
