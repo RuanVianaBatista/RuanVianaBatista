@@ -156,9 +156,16 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
         src="https://custom-icon-badges.demolab.com/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
     />
 </a>
+<a href="https://www.instagram.com/SEU_USUARIO_AQUI">
+    <img 
+        alt="Instagram" 
+        src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+    />
 <a href="https://www.linkedin.com/in/SEU_PERFIL">
     <img 
         alt="LinkedIn" 
         src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
     />
+</a>
+
 </a>
