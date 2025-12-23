@@ -141,7 +141,7 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
 <br>
 <br>
 
-### Contatos
+### ☎️ Contatos
 <a href="https://wa.me/5585997649427">
     <img 
         alt="WhatsApp" 
