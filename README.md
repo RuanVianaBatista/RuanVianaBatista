@@ -6,11 +6,11 @@ Meu nome é Ruan Viana e atualmente curso Análise e Desenvolvimento de Sistemas
 
 Busco novas oportunidades para adquirir conhecimento prático e experiência na área de desenvolvimento, contribuindo para projetos e evoluindo minhas habilidades técnicas e profissionais.
 
-<a href="https://github.com/RuanVianaBatista?tab=repositories&sort=stargazers">
+<<a href="https://github.com/RuanVianaBatista?tab=repositories&sort=stargazers">
     <img
         alt="total de estrelas"
         title="Total de estrelas no GitHub"
-        src="https://custom-icon-badges.demolab.com/github/stars/RuanVianaBatista?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        src="https://custom-icon-badges.demolab.com/github/stars/RuanVianaBatista?color=dfb317&style=for-the-badge&labelColor=c29b00&logo=star&label=estrelas&logoColor=white"
     />
 </a>
 <a href="https://github.com/RuanVianaBatista?tab=followers">
@@ -21,6 +21,28 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
     />
 </a>
 
+### Contatos
+<a href="LINK_DO_SEU_CONVITE">
+    <img 
+        alt="Discord" 
+        title="Meu Discord" 
+        src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED&label=discord" 
+    />
+</a>
+<a href="https://wa.me/SEU_NUMERO_AQUI">
+    <img 
+        alt="WhatsApp" 
+        title="Meu WhatsApp" 
+        src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54&label=whatsapp" 
+    />
+</a>
+<a href="https://www.linkedin.com/in/SEU_PERFIL_AQUI">
+    <img 
+        alt="LinkedIn" 
+        title="Meu LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182&label=linkedin" 
+    />
+</a>
 
 ---
 <p align="center">
