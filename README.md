@@ -28,6 +28,7 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=8&hide_border=true" />
 </p>
 
+
 ### ⚙️ Linguagens
 
 
@@ -102,6 +103,7 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
     style="padding=rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
+
 
 <br>
 <br>
