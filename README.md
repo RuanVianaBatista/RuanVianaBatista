@@ -105,8 +105,6 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
-
-<br>
 <br>
 
 ### 🤖 Tecnologias
@@ -138,6 +136,7 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
     style="padding=rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+
 <br>
 
 ### Contatos
