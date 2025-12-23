@@ -6,7 +6,7 @@ Meu nome é Ruan Viana e atualmente curso Análise e Desenvolvimento de Sistemas
 
 Busco novas oportunidades para adquirir conhecimento prático e experiência na área de desenvolvimento, contribuindo para projetos e evoluindo minhas habilidades técnicas e profissionais.
 
-<<a href="https://github.com/RuanVianaBatista?tab=repositories&sort=stargazers">
+<a href="https://github.com/RuanVianaBatista?tab=repositories&sort=stargazers">
     <img
         alt="total de estrelas"
         title="Total de estrelas no GitHub"
