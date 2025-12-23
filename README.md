@@ -21,7 +21,10 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
     />
 </a>
 
+
 ---
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=8) |
+|:--:|:--:|
 
 ### ⚙️ Linguagens
 
@@ -130,10 +133,5 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
     style="padding=rigth: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<br>
-<br>
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=8) |
-|:--:|:--:|
 
 ![Snake animation](https://github.com/RuanVianaBatista/RuanVianaBatista/blob/output/snake.svg)
