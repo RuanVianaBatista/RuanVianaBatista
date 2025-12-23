@@ -150,7 +150,7 @@ Busco novas oportunidades para adquirir conhecimento prático e experiência na 
         src="https://custom-icon-badges.demolab.com/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
     />
 </a>
-<a href="LINK_DO_SEU_CONVITE">
+<a href="https://discord.com/users/786010479637954571">
     <img 
         alt="Discord" 
         src="https://custom-icon-badges.demolab.com/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
