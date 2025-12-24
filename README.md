@@ -41,11 +41,16 @@
 ### 📊 Estatísticas
 
 <div align="center">
-
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-
-  <img width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&langs_count=8&hide_border=true" />
-
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&langs_count=8&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
