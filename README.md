@@ -40,10 +40,13 @@
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=8&hide_border=true" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanVianaBatista&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+</div>
+
+
+
 
 ---
 
