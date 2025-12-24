@@ -5,9 +5,9 @@
 ![Snake animation](https://github.com/RuanVianaBatista/RuanVianaBatista/blob/output/snake.svg)
 
 ### 📝 Sobre Mim
-Meu nome é **Ruan Viana** e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no IFCE – Campus Tabuleiro do Norte. Tenho como objetivo me tornar um desenvolvedor Full Stack e, para isso, estou focado no estudo de linguagens e tecnologias tanto de BackEnd quanto de FrontEnd, como **Java, JavaScript, Spring Boot e React**.
+#### Meu nome é **Ruan Viana** e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) no IFCE – Campus Tabuleiro do Norte. Tenho como objetivo me tornar um desenvolvedor Full Stack e, para isso, estou focado no estudo de linguagens e tecnologias tanto de BackEnd quanto de FrontEnd, como **Java, JavaScript, Spring Boot e React**.
 
-Busco novas oportunidades para adquirir conhecimento prático e experiência na área de desenvolvimento, contribuindo para projetos e evoluindo minhas habilidades técnicas e profissionais.
+#### Busco novas oportunidades para adquirir conhecimento prático e experiência na área de desenvolvimento, contribuindo para projetos e evoluindo minhas habilidades técnicas e profissionais.
 
 <p align="left">
   <a href="https://github.com/RuanVianaBatista?tab=followers">
