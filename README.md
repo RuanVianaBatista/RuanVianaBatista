@@ -14,7 +14,7 @@
     <img alt="seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/RuanVianaBatista?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white&" />
   </a>
   <a href="https://github.com/RuanVianaBatista?tab=repositories&sort=stargazers">
-    <img alt="total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RuanVianaBatista?color=dfb317&style=for-the-badge&labelColor=c29b00&logo=star&label=estrelas&logoColor=white" />
+    <img alt="total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RuanVianaBatista?color=dfb317&style=for-the-badge&labelColor=c29b00&logo=star&label=estrelas&logoColor=white&" />
   </a>
 </p>
 
