@@ -47,8 +47,8 @@
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RuanVianaBatista&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&langs_count=8&hide_border=true&" />
-      </td>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RuanVianaBatista&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
+</td>
     </tr>
   </table>
 </div>
