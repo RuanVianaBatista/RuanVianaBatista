@@ -61,7 +61,7 @@
   <a href="https://wa.me/5585997649427">
     <img alt="WhatsApp" src="https://custom-icon-badges.demolab.com/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_PERFIL">
+  <a href="www.linkedin.com/in/ruan-viana-2948a0450">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/786010479637954571">
